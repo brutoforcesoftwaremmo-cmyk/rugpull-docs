@@ -1,1 +1,2 @@
-# Rugpull Docs
+# Architecture
+
